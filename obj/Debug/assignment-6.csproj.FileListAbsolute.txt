@@ -1,0 +1,8 @@
+D:\simplilearn\phase2\day-6\assignment\assignment-6\assignment-6\assignment-6\bin\Debug\assignment-6.exe.config
+D:\simplilearn\phase2\day-6\assignment\assignment-6\assignment-6\assignment-6\bin\Debug\assignment-6.exe
+D:\simplilearn\phase2\day-6\assignment\assignment-6\assignment-6\assignment-6\bin\Debug\assignment-6.pdb
+D:\simplilearn\phase2\day-6\assignment\assignment-6\assignment-6\assignment-6\obj\Debug\assignment-6.csproj.AssemblyReference.cache
+D:\simplilearn\phase2\day-6\assignment\assignment-6\assignment-6\assignment-6\obj\Debug\assignment-6.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\phase2\day-6\assignment\assignment-6\assignment-6\assignment-6\obj\Debug\assignment-6.csproj.CoreCompileInputs.cache
+D:\simplilearn\phase2\day-6\assignment\assignment-6\assignment-6\assignment-6\obj\Debug\assignment-6.exe
+D:\simplilearn\phase2\day-6\assignment\assignment-6\assignment-6\assignment-6\obj\Debug\assignment-6.pdb
